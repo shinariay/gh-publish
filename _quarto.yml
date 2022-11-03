@@ -2,12 +2,12 @@ project:
   type: website
 
 website:
-  title: "gh-publish"
+  title: "绫戴丽的快递钟楼"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/shinariay/gh-publish
       - icon: twitter
         href: https://twitter.com
 format:

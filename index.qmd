@@ -1,5 +1,5 @@
 ---
-title: "gh-publish"
+title: "上半年寄，下半年摆"
 listing:
   contents: posts
   sort: "date desc"
