@@ -4,7 +4,7 @@ author: "Tristan O'Malley"
 date: "2022-10-31"
 categories: [news]
 ---
----
+
 name: 从零开始的女性主cover: https://img2.doubanio.com/view/subject/l/public/s33984963.jpg
 tags: book
 douban_url: https://book.douban.com/subject/35523099/
@@ -20,10 +20,11 @@ status:
 readtime:
 pagecount: 192
 pageprogress: 
----
+
 > [!bookinfo]+ **《从零开始的女性主义*
 > ![bookcover|200](https://img2.doubanio.com/view/subject/l/public/s33984963.jpg)
 >
+
 | 属  | 内容                                       |
 |:------ |:------------------------------------------ |
 | ISBN   | 9787559652317                             |
